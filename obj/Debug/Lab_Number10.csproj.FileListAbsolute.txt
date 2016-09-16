@@ -1,0 +1,6 @@
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\Lab_Number10\Lab_Number10\bin\Debug\Lab_Number10.exe.config
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\Lab_Number10\Lab_Number10\bin\Debug\Lab_Number10.exe
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\Lab_Number10\Lab_Number10\bin\Debug\Lab_Number10.pdb
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\Lab_Number10\Lab_Number10\obj\Debug\Lab_Number10.csprojResolveAssemblyReference.cache
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\Lab_Number10\Lab_Number10\obj\Debug\Lab_Number10.exe
+C:\Users\ATHIKUMAR\Documents\GitHub\EXPIT\DEMOS\Lab_Number10\Lab_Number10\obj\Debug\Lab_Number10.pdb
